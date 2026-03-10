@@ -14,7 +14,8 @@ D-latch
 Реализация D-latch на языке SystemVerilog
 
 
-<img width="592" height="272" alt="image" src="https://github.com/user-attachments/assets/a29f3cb2-63cb-4a00-9b9d-3f4607f2a6fb" />
+<img width="602" height="266" alt="image" src="https://github.com/user-attachments/assets/ee9d221d-e567-4a0e-b32f-0482449f7f97" />
+
 
 
 
