@@ -14,9 +14,17 @@ D-latch
 Реализация D-latch на языке SystemVerilog
 
 
-<img width="602" height="266" alt="image" src="https://github.com/user-attachments/assets/ee9d221d-e567-4a0e-b32f-0482449f7f97" />
-
-
+```sv
+module Latch(
+  input logic enable,
+  input logic [3:0] d,
+  output logic [3:0] q
+);
+  always_latch begin
+    if (enable) q <= d;
+  end
+endmodule
+```
 
 
 
